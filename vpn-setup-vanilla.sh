@@ -17,8 +17,8 @@ VPN_IP=`curl ipv4.icanhazip.com>/dev/null 2>&1`
 VPN_USER="seovpn" #You may choose to modify to increase security, however, isn't required. 
 VPN_PASS="20150709010553" #Please modify, this password isn't secure.
 
-VPN_LOCAL="192.168.0.150" #In general, do not modify.
-VPN_REMOTE="192.168.0.151-200" #In general, do not modify.
+VPN_LOCAL="192.168.0.150" #In general, do not modify
+VPN_REMOTE="192.168.0.151-200" #In general, do not modify
 
 yum -y groupinstall "Development Tools"
 rpm -Uvh https://web.archive.org/web/20150709010553/http://poptop.sourceforge.net/yum/stable/rhel6/pptp-release-current.noarch.rpm #Archived version from Sourceforge
