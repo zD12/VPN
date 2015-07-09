@@ -20,9 +20,8 @@
 + Singapore, AU
 
 ##Superior Networks
-+ Paris, FR
-+ Montreal, CA
-+ Toronto, CA
++ Roubaix, FR
++ Beauharnois, CA
 
 ##Fastdot
 + Australia*
