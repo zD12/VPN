@@ -11,6 +11,11 @@
 + Paris, FR
 + Lyon, FR
 
+##HostUS OpenVZ VPS
++ Atlanta, USA
++ Dallas, USA
++ Los Angeles, USA
+
 ##DigitalOcean
 + San Francisco, USA
 + New York City, USA
